@@ -82,4 +82,8 @@ Project Link:
 6. [Superstore E-Commerce Profit and Sales Performance Report Dashboard](https://public.tableau.com/app/profile/fatoni.rahmat/viz/SuperstoreE-CommerceProfitandSalesPerformanceReport/Dashboard1)
 7. [E-CommerceU KPI Dashboard](https://public.tableau.com/app/profile/fatoni.rahmat/viz/EcommerceUKPIDashboard_17124743340170/Home?publish=yes)
 
+---
+
+[Resume](https://docs.google.com/presentation/d/1Jajm5SPKRtP8r6VfNdr-e4fke3Uzs8M17HXQVVAdCns/edit#slide=id.p)
+[Linkedin](www.linkedin.com/in/nurfajrifatoni)
 [Tableau Profile](https://public.tableau.com/app/profile/fatoni.rahmat/vizzes)
