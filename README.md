@@ -85,5 +85,7 @@ Project Link:
 ---
 
 [Resume](https://docs.google.com/presentation/d/1Jajm5SPKRtP8r6VfNdr-e4fke3Uzs8M17HXQVVAdCns/edit#slide=id.p)
+
 [Linkedin](www.linkedin.com/in/nurfajrifatoni)
+
 [Tableau Profile](https://public.tableau.com/app/profile/fatoni.rahmat/vizzes)
