@@ -85,8 +85,8 @@ Project Link:
 ---
 About ME:
 
-[Resume](https://docs.google.com/presentation/d/1Jajm5SPKRtP8r6VfNdr-e4fke3Uzs8M17HXQVVAdCns/edit#slide=id.p)
+[Resume](https://docs.google.com/presentation/d/1Jajm5SPKRtP8r6VfNdr-e4fke3Uzs8M17HXQVVAdCns/edit?usp=sharing)
 
-[Linkedin](www.linkedin.com/in/nurfajrifatoni)
+[Linkedin](https://www.linkedin.com/in/nurfajrifatoni)
 
 [Tableau](https://public.tableau.com/app/profile/fatoni.rahmat/vizzes)
