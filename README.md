@@ -85,7 +85,7 @@ Project Link:
 ---
 About ME:
 
-[Resume](https://docs.google.com/presentation/d/1Jajm5SPKRtP8r6VfNdr-e4fke3Uzs8M17HXQVVAdCns/edit?usp=sharing)
+[Resume](https://drive.google.com/file/d/1rLPi-BiynQkUGT45IvRjIhrHvctReUgR/view?usp=sharing)
 
 [Linkedin](https://www.linkedin.com/in/nurfajrifatoni)
 
