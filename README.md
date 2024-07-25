@@ -10,14 +10,14 @@ In processing Excel data I use the SUM, MIN, MAX syntax. And also use other synt
 
 1. Formulas: SUM, MIN, MAX, AVERAGE, IF, SUMIF, COUNTIF.
 
-     Project Link:
-        1. [Course Value](https://docs.google.com/spreadsheets/d/1QigaOl56Du1_L9zpXL2YMlcUTkRy-eTAddNfhNukxJo/edit?usp=sharing)
-        2. [Tuition Fee](https://docs.google.com/spreadsheets/d/1RHeitSSP-5vN1ec8zb-rGX7sM6Pmx4S8/edit?usp=sharing&ouid=103858804794729555833&rtpof=true&sd=true)
+
+     1. [Course Value](https://docs.google.com/spreadsheets/d/1QigaOl56Du1_L9zpXL2YMlcUTkRy-eTAddNfhNukxJo/edit?usp=sharing)
+     2. [Tuition Fee](https://docs.google.com/spreadsheets/d/1RHeitSSP-5vN1ec8zb-rGX7sM6Pmx4S8/edit?usp=sharing&ouid=103858804794729555833&rtpof=true&sd=true)
 
 
 2. Formulas: VLOOKUP, HLOOKUP, XLOOKUP.
 
-     Project Link:
+    
      1. [Payroll](https://docs.google.com/spreadsheets/d/1BboOYnnm7S5aDaP6Ybm7nw3yOK8SYZVUZuxqIm0UpPo/edit?usp=sharing)
      2. [Delivery Time](https://docs.google.com/spreadsheets/d/1FvtTkODjr3-C_caFy3s7Y8sUBRfOJ7PJaBBjhZIfgvE/edit?usp=sharing)
      3. [Stock](https://docs.google.com/spreadsheets/d/1W7hYCsQYsBiYAmu94nUzBP5frAhd5rK7/edit?usp=sharing&ouid=103858804794729555833&rtpof=true&sd=true)
@@ -25,7 +25,7 @@ In processing Excel data I use the SUM, MIN, MAX syntax. And also use other synt
 
 3. Individual project on public works administration.
 
-     Project Link:
+    
      1. [Stock Opname](https://docs.google.com/spreadsheets/d/1UGm1tEPigovNZGEk0jBngiYHX5XEt88W/edit?usp=sharing&ouid=103858804794729555833&rtpof=true&sd=true)
      2. [Sales Report](https://docs.google.com/spreadsheets/d/1Ig7ImM0kqflmlujyHT0FcVfsXGbyL4gx/edit?usp=sharing&ouid=103858804794729555833&rtpof=true&sd=true)
 
