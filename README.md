@@ -1,6 +1,42 @@
-**Data Analytics Portfolio by Nur Fajri Fatoni Rahmat**
+**Portfolio by Nur Fajri Fatoni Rahmat**
 
-Hi! My name is *Nur Fajri Fatoni Rahmat*, just called me Toni. Here is my *Portfolio as Data Analyst*, please check it out!
+Hi! My name is *Nur Fajri Fatoni Rahmat*, just called me Toni. Here is my *Portfolio as Data Worker*, please check it out!
+
+---
+
+**Excel Formulas**
+
+In processing Excel data I use the SUM, MIN, MAX syntax. And also use other syntax like AVERAGE, VLOOKUP, HLOOKUP, SUMIF, IF, COUNTIF.
+
+Formulas: SUM, MIN, MAX, AVERAGE, IF, SUMIF, COUNTIF.
+
+Project Link:
+1. [Course Value](https://docs.google.com/spreadsheets/d/1QigaOl56Du1_L9zpXL2YMlcUTkRy-eTAddNfhNukxJo/edit?usp=sharing)
+2. [Tuition fee](https://docs.google.com/spreadsheets/d/1RHeitSSP-5vN1ec8zb-rGX7sM6Pmx4S8/edit?usp=sharing&ouid=103858804794729555833&rtpof=true&sd=true)
+
+Formulas: VLOOKUP, HLOOKUP, XLOOKUP.
+
+Project Link:
+1. [Payroll](https://docs.google.com/spreadsheets/d/1BboOYnnm7S5aDaP6Ybm7nw3yOK8SYZVUZuxqIm0UpPo/edit?usp=sharing)
+2. [Delivery Time](https://docs.google.com/spreadsheets/d/1FvtTkODjr3-C_caFy3s7Y8sUBRfOJ7PJaBBjhZIfgvE/edit?usp=sharing)
+3. [Stock](https://docs.google.com/spreadsheets/d/1W7hYCsQYsBiYAmu94nUzBP5frAhd5rK7/edit?usp=sharing&ouid=103858804794729555833&rtpof=true&sd=true)
+
+Individual project on public works administration
+
+Project Link:
+1. [Stock Opname](https://docs.google.com/spreadsheets/d/1UGm1tEPigovNZGEk0jBngiYHX5XEt88W/edit?usp=sharing&ouid=103858804794729555833&rtpof=true&sd=true)
+2. [Sales Report](https://docs.google.com/spreadsheets/d/1Ig7ImM0kqflmlujyHT0FcVfsXGbyL4gx/edit?usp=sharing&ouid=103858804794729555833&rtpof=true&sd=true)
+
+---
+
+**Data Entry**
+
+Design simple and effective Excel data entry forms using Python.
+
+Project Link:
+1. [Address Data Entry Form](https://github.com/FatoniRahmat/Portofolio-Data-Entry-Form-in-Python/blob/main/Data%20Entry%20Form%20Address.py)
+2. [Course Data Entry Form](https://github.com/FatoniRahmat/Portofolio-Data-Entry-Form-in-Python/blob/main/Data%20Entry%20Form%20Course.py)
+3. [Email Data Entry Form](https://github.com/FatoniRahmat/Portofolio-Data-Entry-Form-in-Python/tree/main/Data%20Entry%20Form%20Email)
 
 ---
 
@@ -67,7 +103,6 @@ Project Link:
 5. [San Francisco Bikeshare Average Duration](https://console.cloud.google.com/bigquery?sq=946903545661:5934124d450e4cc283cd93758532b15f)
 
 ---
-
 
 **Data Visualization**
 
