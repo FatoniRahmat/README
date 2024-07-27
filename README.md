@@ -126,7 +126,7 @@ Project Link:
 ---
 About ME:
 
-[Resume](https://drive.google.com/file/d/1rLPi-BiynQkUGT45IvRjIhrHvctReUgR/view?usp=sharing)
+[Resume](https://drive.google.com/file/d/1xyBwi33dJMXVCnKrZEp4TS-anfDkS4HA/view?usp=sharing)
 
 [Linkedin](https://www.linkedin.com/in/nurfajrifatoni)
 
