@@ -42,7 +42,7 @@ Design simple and effective Excel data entry forms using Python.
 Project Link:
 1. [Address Data Entry Form](https://github.com/FatoniRahmat/Portofolio-Data-Entry-Form-in-Python/blob/main/Data%20Entry%20Form%20Address.py)
 2. [Course Data Entry Form](https://github.com/FatoniRahmat/Portofolio-Data-Entry-Form-in-Python/blob/main/Data%20Entry%20Form%20Course.py)
-3. [Email Data Entry Form](https://github.com/FatoniRahmat/Portofolio-Data-Entry-Form-in-Python/tree/main/Data%20Entry%20Form%20Email)
+3. [Registration Data Entry Form](https://github.com/FatoniRahmat/Portofolio-Data-Entry-Form-in-Python/tree/main/Data%20Entry%20Form%20Email)
 
 ---
 
