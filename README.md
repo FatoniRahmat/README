@@ -131,3 +131,6 @@ About ME:
 [Linkedin](https://www.linkedin.com/in/nurfajrifatoni)
 
 [Tableau](https://public.tableau.com/app/profile/fatoni.rahmat/vizzes)
+
+---
+please give feedback for my portfolio at fatonirahmat@ymail.com
